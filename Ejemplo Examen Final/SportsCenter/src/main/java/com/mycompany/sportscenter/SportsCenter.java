@@ -14,6 +14,6 @@ public class SportsCenter {
         sportCenter.addScenario(scenario1);
         sportCenter.addScenario(scenario2);
         
-        sportCenter.
+        
     }
 }
