@@ -1,0 +1,7 @@
+global\biblio\biblioteca\Biblioteca.class
+global\biblio\Biblio.class
+global\biblio\biblioteca\Libro.class
+global\biblio\people\Profesor.class
+global\biblio\people\Estudiante.class
+global\biblio\people\Usuario.class
+global\biblio\biblioteca\Prestamo.class
